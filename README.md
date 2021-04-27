@@ -20,6 +20,16 @@ You can load the function by the following commands:
 
 `from SSVD.get_plot import get_plot`
 
+# SSVD
+
+SSVD obtains rank 1 approximation of the original data matrix X
+Inputs are:
+
+1. X = matrix to be decomposed
+2. tol = stopping criteria for convergence
+3. gamma = weight parameters
+4. max_it = maximum # of iterations
+Output: U, S, V, number of iteration
 
 # get_plot
 
