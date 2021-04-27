@@ -6,7 +6,7 @@ This project implements, discusses, and applied data on the paper Biclustering v
 
 The github respository link is: https://github.com/yanqinshen/STA-663-project.
 
-You can install the package by this command line: pip install git+https://github.com/yanqinshen/STA-663-project.git@main .
+You can install the package by this command line: `pip install git+https://github.com/yanqinshen/STA-663-project.git@main`.
 
 The major algorithm of Sparse Singular Value Decomposition (SSVD) returns rank 1 approximation of the original data matrix, with high-dimensional features, and identifies possible clusters.
 
