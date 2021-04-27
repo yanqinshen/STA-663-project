@@ -29,6 +29,7 @@ Inputs are:
 2. tol = stopping criteria for convergence
 3. gamma = weight parameters
 4. max_it = maximum # of iterations
+
 Output: U, S, V, number of iteration
 
 # get_plot
