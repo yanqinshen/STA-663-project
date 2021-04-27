@@ -15,7 +15,9 @@ The functions include: `SSVD`, `SSVD_numba`, and `get_plot`
 You can load the function by the following commands:
 
 `from SSVD.SSVD_numba import SSVD_numba`
+
 `from SSVD.SSVD import SSVD`
+
 `from SSVD.get_plot import get_plot`
 
 
