@@ -23,6 +23,7 @@ You can load the function by the following commands:
 # SSVD
 
 SSVD obtains rank 1 approximation of the original data matrix X
+
 Inputs are:
 
 1. X = matrix to be decomposed
