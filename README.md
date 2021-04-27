@@ -22,7 +22,7 @@ You can load the function by the following commands:
 
 # SSVD
 
-SSVD obtains rank 1 approximation of the original data matrix X
+SSVD obtains rank 1 approximation of the original data matrix X. Algorithm details can be found in Section 3 of the report.
 
 Inputs are:
 
@@ -32,6 +32,9 @@ Inputs are:
 4. max_it = maximum # of iterations
 
 Output: U, S, V, number of iteration
+
+# SSVD_numba
+JIT compiler version of SSVD.
 
 # get_plot
 
