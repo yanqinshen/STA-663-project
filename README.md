@@ -4,8 +4,6 @@ Authors: Yanqin Shen, Gaojia Xu, Nancy Fu
 
 This project implements, discusses, and applied data on the paper Biclustering via Sparse Singular Value Decomposition written by Mihee Lee , Haipeng Shen, Jianhua Z Huang, and J S Marron.
 
-The github respository link is: https://github.com/yanqinshen/STA-663-project.
-
 You can install the package by this command line: `pip install git+https://github.com/yanqinshen/STA-663-project.git@main`.
 
 The major algorithm of Sparse Singular Value Decomposition (SSVD) returns rank 1 approximation of the original data matrix, with high-dimensional features, and identifies possible clusters.
