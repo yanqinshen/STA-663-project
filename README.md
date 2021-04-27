@@ -11,7 +11,6 @@ You can install the package by this command line: `pip install git+https://githu
 The major algorithm of Sparse Singular Value Decomposition (SSVD) returns rank 1 approximation of the original data matrix, with high-dimensional features, and identifies possible clusters.
 
 It could further provide subsequent layers, which can be obtained by the same method from the residual matrix after the previous layer. 
-Then it is possible obtain the current first layer step by step.
 
 The functions include: `SSVD`, `SSVD_numba`, and `get_plot`
 
