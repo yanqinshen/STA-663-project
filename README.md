@@ -20,6 +20,16 @@ You can load the function by the following commands:
 
 `from SSVD.get_plot import get_plot`
 
+The package is also uploaded to PyPI. You can install the package by : `python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps ssvd-pkg`.
+
+You can load the functions by:
+
+`from ssvd_pkg import SSVD_numba`
+
+`from ssvd_pkg import SSVD`
+
+`from ssvd_pkg import get_plot`
+
 # SSVD
 
 SSVD obtains rank 1 approximation of the original data matrix X. Algorithm details can be found in Section 3 of the report.
